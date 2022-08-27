@@ -1,4 +1,4 @@
-#Hire-a-thon_NavyaLadi
+# Hire-a-thon_NavyaLadi
 
 # Problem Statement - Employee Performance problem statement
 
@@ -23,3 +23,10 @@ solution.py contains the code required for problem statement.
 1) git pull the repository
 2) cd into "Employee Performance problem statement"
 3) Run python solution.py
+
+
+# Problem Statement - Frame Data Model problem statement
+
+# Description
+                   DDL Scripts and query pdf has all the scripts that were need for the problem statement and the query to fetch the branch with the highest efficiency.
+                   ER Diagram for the tables
